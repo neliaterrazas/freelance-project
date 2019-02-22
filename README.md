@@ -22,7 +22,7 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 #### Desktop Version
 
-![desktop user interface](link-to-screenshot-here)
+![desktop user interface](pics/desktop-drawing.jpg)
 
 #### Tablet version
 
@@ -40,6 +40,7 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 ### Research, Inspiration, and Brainstorm
 
+For my inspiration, I looked at coworking spaces and coffee shops around Portland. After looking at a lot of sites that seemed to fit with the look and feel that the client was trying to convey. With attention to images, margins, font, fluidity, color choices, and use of logos, I developed an idea for the overall look of the client's site.
 
 
 ### Technologies and Resources
@@ -48,7 +49,7 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 ### Responsiveness
 
-Describe how the site is responsive, and what different 'versions' this project includes (does it have a mobile version? tablet version? )
+Still in prototype. Screen can be previewed in Sketch to see how they would flow in relation to each other. 
 
 ### Setup Instructions
 
