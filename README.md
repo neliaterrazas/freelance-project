@@ -25,8 +25,10 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 ![desktop user interface](pics/desktop-drawing.jpg)
 
 #### Tablet version
-
+Landing Page
 ![tablet user interface](pics/tablet-drawing.jpg)
+Amenities Page
+![tablet user interface](pics/amenities-tablet-drawing.jpg)
 
 #### Mobile Version
 
@@ -49,7 +51,7 @@ For my inspiration, I looked at coworking spaces and coffee shops around Portlan
 
 ### Responsiveness
 
-Still in prototype. Screen can be previewed in Sketch to see how they would flow in relation to each other. 
+Still in prototype. Screen can be previewed in Sketch to see how they would flow in relation to each other.
 
 ### Setup Instructions
 
