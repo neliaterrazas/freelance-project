@@ -23,6 +23,7 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 #### Desktop Version
 
 ![desktop user interface](pics/desktop-drawing.jpg)
+![desktop user interface](pics/how-to-join-desktop-drawing.jpg)
 
 #### Tablet version
 Landing Page
