@@ -24,6 +24,10 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 ![desktop user interface](link-to-screenshot-here)
 
+#### Tablet version
+
+![tablet user interface](pics/tablet-drawing.jpg)
+
 #### Mobile Version
 
 ![mobile user interface](pics/mobile-drawing.jpg)
