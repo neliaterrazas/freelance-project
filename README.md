@@ -6,8 +6,8 @@
 
 ### Description
 
-A website showcasing a new co-working startup space. This site is meant to showcase this company's unique and exciting work environment. Target users for this company include: people on tech, artists, daytraders, craftspeople, writers, counselors, and traditional business people looking for a fresh space. 
-(Personas/Roles)
+A website showcasing a new co-working startup space. This site is meant to showcase this company's unique and exciting work environment. Target users for this company include: people on tech, artists, daytraders, craftspeople, writers, counselors, and traditional business people looking for a fresh space. To start out, there are three user personas that are being kept in mind: Madison, a roaster at Stumptown Coffee who is also interested in Marketing, Charlie, an young but established software engineer looking for a more inspiring workspace that still has everything he needs to continue to further his career on his own terms, and Allessandra, a fine artist who has recently began to sell her artwork.
+
 ### Images
 
 Screenshots of your Sketch wireframes should go here. Make sure to include all versions (if you have different mobile, tablet, desktop, etc.) designs. Use Dropbox or another free image hosting service to host your images.
@@ -22,12 +22,9 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 ### User Stories
 
-* We'll  
-* Learn
-* About
-* These
-* Monday
-* Night
+* As a craftsperson and specialty coffee roaster, I want a clean, easy to use interface he can explore all possible features of this new workspace.
+* As a software developer, I want an exciting site, without bugs, that inspires my creativity so that I can be constantly motivated to continue producing fresh content.
+* As a fine artist, I want a site that reflects on my passion and eye for beauty, so that potential clients can tell that I am fully invested in my art, start-to-finish. 
 
 ### Technologies and Resources
 
