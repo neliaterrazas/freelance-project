@@ -18,18 +18,22 @@ To start out, there are three user personas that are being kept in mind, inspire
 
 ### Images
 
-Screenshots of your Sketch wireframes should go here. Make sure to include all versions (if you have different mobile, tablet, desktop, etc.) designs. Use Dropbox or another free image hosting service to host your images.
+Sketch Wireframes
+![mobile user interface](assets/images/mobile-wireframe.png)
+![tablet user interface](assets/images/tablet-wireframe.png)
+![desktop user interface](assets/images/desktop-wireframe.png)
+
 
 #### Desktop Version
 
-![desktop user interface](pics/desktop-drawing.jpg)
-![desktop user interface](pics/how-to-join-desktop-drawing.jpg)
+![desktop user interface](assets/images/desktop-drawing.jpg)
+![desktop user interface](assets/images/how-to-join-desktop-drawing.jpg)
 
 #### Tablet version
 Landing Page
-![tablet user interface](pics/tablet-drawing.jpg)
+![tablet user interface](assets/images/tablet-drawing.jpg)
 Amenities Page
-![tablet user interface](pics/amenities-tablet-drawing.jpg)
+![tablet user interface](assets/images/amenities-tablet-drawing.jpg)
 
 #### Mobile Version
 
@@ -49,6 +53,9 @@ For my inspiration, I looked at coworking spaces and coffee shops around Portlan
 ### Technologies and Resources
 
 * Sketch
+* HTML
+* CSS
+* Sass
 
 ### Responsiveness
 
@@ -56,16 +63,10 @@ Still in prototype. Screen can be previewed in Sketch to see how they would flow
 
 ### Setup Instructions
 
-Describe how someone can clone and launch this project.
+* Download this repository at https://github.com/neliaterrazas/freelance-project.git
+* Open in your favorite text editor or web browser.
 
-### Roadmap
 
-Is there work you plan on continuing doing on this project? Features you'd like to add?
-
-* Consider
-* Listing
-* Them
-* Here
 
 ### License
 
