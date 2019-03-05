@@ -14,30 +14,38 @@ A website showcasing a new co-working startup space. This site is meant to showc
 * "We want to avoid catering solely to tech. You walk into some of these other coworking spaces, and you only ever see people working on code. That's great, but we'd also love to see artists, daytraders, craftspeople, writers, counselors, more traditional business people--you know, anyone and everyone--in our space."
 * "Our site should also show what amenities we have. We have an on-site coffee counter, both communal working areas and private offices, high-speed internet, printing and faxing services, and we usually have a fun, optional activity on Thursday afternoons. Like yoga, maybe a fun complementary food, or like...I don't know, maybe even crafts sometimes (come make your own mini desktop terrarium)?"
 
-To start out, there are three user personas that are being kept in mind, inspired by the client's inclusive target users: Madison, a roaster at Stumptown Coffee who is also interested in Marketing, Charlie, an young but established software engineer looking for a more inspiring workspace that still has everything he needs to continue to further his career on his own terms, and Allessandra, a fine artist who has recently began to sell her artwork.
+
 
 ### Images
 
 Sketch Wireframes
-![mobile user interface](../assets/images/mobile-wireframe.png)
-![tablet user interface](../assets/images/tablet-wireframe.png)
+![mobile user interface](../images/mobile-wireframe.png)
+![tablet user interface](../images/tablet-wireframe.png)
 ![desktop user interface](../assets/images/desktop-wireframe.png)
 
 
 #### Desktop Version
 
-![desktop user interface](../assets/images/desktop-drawing.jpg)
-![desktop user interface](../assets/images/how-to-join-desktop-drawing.jpg)
+![desktop user interface](../images/desktop-drawing.jpg)
+![desktop user interface](../images/how-to-join-desktop-drawing.jpg)
 
 #### Tablet version
 Landing Page
-![tablet user interface](../assets/images/tablet-drawing.jpg)
+![tablet user interface](../images/tablet-drawing.jpg)
 Amenities Page
-![tablet user interface](../assets/images/amenities-tablet-drawing.jpg)
+![tablet user interface](../images/amenities-tablet-drawing.jpg)
 
 #### Mobile Version
 
-![mobile user interface](../assets/images/mobile-drawing.jpg)
+![mobile user interface](../images/mobile-drawing.jpg)
+
+### User Personas
+| Madison  | Charlie  | Allesandra  |   
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+To start out, there are three user personas that are being kept in mind, inspired by the client's inclusive target users: Madison, a roaster at Stumptown Coffee who is also interested in Marketing, Charlie, an young but established software engineer looking for a more inspiring workspace that still has everything he needs to continue to further his career on his own terms, and Allessandra, a fine artist who has recently began to sell her artwork.
 
 ### User Stories
 
