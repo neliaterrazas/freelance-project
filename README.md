@@ -19,25 +19,25 @@ A website showcasing a new co-working startup space. This site is meant to showc
 ### Images:
 
 
-![mobile user interface](../images/mobile-wireframe.png)
-![tablet user interface](../images/tablet-wireframe.png)
-![desktop user interface](../assets/images/desktop-wireframe.png)
+![mobile user interface](assets/images/mobile-wireframe.png)
+![tablet user interface](assets/images/tablet-wireframe.png)
+![desktop user interface](assets/images/desktop-wireframe.png)
 
 
 #### Desktop Version:
 
-![desktop user interface](../images/desktop-drawing.jpg)
-![desktop user interface](../images/how-to-join-desktop-drawing.jpg)
+![desktop user interface](assets/images/desktop-drawing.jpg)
+![desktop user interface](assets/images/how-to-join-desktop-drawing.jpg)
 
 #### Tablet version:
 
-![tablet user interface](../images/tablet-drawing.jpg)
+![tablet user interface](assets/images/tablet-drawing.jpg)
 
-![tablet user interface](../images/amenities-tablet-drawing.jpg)
+![tablet user interface](assets/images/amenities-tablet-drawing.jpg)
 
 #### Mobile Version:
 
-![mobile user interface](../images/mobile-drawing.jpg)
+![mobile user interface](assets/images/mobile-drawing.jpg)
 
 ### User Personas
 | Madison  | Charlie  | Allesandra  |   
