@@ -16,7 +16,7 @@ A website showcasing a new co-working startup space. This site is meant to showc
 
 
 
-### Images
+### Images:
 
 
 ![mobile user interface](../images/mobile-wireframe.png)
@@ -24,18 +24,18 @@ A website showcasing a new co-working startup space. This site is meant to showc
 ![desktop user interface](../assets/images/desktop-wireframe.png)
 
 
-#### Desktop Version
+#### Desktop Version:
 
 ![desktop user interface](../images/desktop-drawing.jpg)
 ![desktop user interface](../images/how-to-join-desktop-drawing.jpg)
 
-#### Tablet version
+#### Tablet version:
 
 ![tablet user interface](../images/tablet-drawing.jpg)
 
 ![tablet user interface](../images/amenities-tablet-drawing.jpg)
 
-#### Mobile Version
+#### Mobile Version:
 
 ![mobile user interface](../images/mobile-drawing.jpg)
 
