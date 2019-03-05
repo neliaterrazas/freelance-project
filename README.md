@@ -19,25 +19,25 @@ To start out, there are three user personas that are being kept in mind, inspire
 ### Images
 
 Sketch Wireframes
-![mobile user interface](assets/images/mobile-wireframe.png)
-![tablet user interface](assets/images/tablet-wireframe.png)
-![desktop user interface](assets/images/desktop-wireframe.png)
+![mobile user interface](../assets/images/mobile-wireframe.png)
+![tablet user interface](../assets/images/tablet-wireframe.png)
+![desktop user interface](../assets/images/desktop-wireframe.png)
 
 
 #### Desktop Version
 
-![desktop user interface](assets/images/desktop-drawing.jpg)
-![desktop user interface](assets/images/how-to-join-desktop-drawing.jpg)
+![desktop user interface](../assets/images/desktop-drawing.jpg)
+![desktop user interface](../assets/images/how-to-join-desktop-drawing.jpg)
 
 #### Tablet version
 Landing Page
-![tablet user interface](assets/images/tablet-drawing.jpg)
+![tablet user interface](../assets/images/tablet-drawing.jpg)
 Amenities Page
-![tablet user interface](assets/images/amenities-tablet-drawing.jpg)
+![tablet user interface](../assets/images/amenities-tablet-drawing.jpg)
 
 #### Mobile Version
 
-![mobile user interface](pics/mobile-drawing.jpg)
+![mobile user interface](../assets/images/mobile-drawing.jpg)
 
 ### User Stories
 
