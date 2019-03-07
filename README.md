@@ -42,17 +42,22 @@ Sketch Wireframes
 
 
 ### User Personas
-| Madison  |   Charlie    | Allesandra  |   
-|---|---|---|
-| A roaster at Stumptown Coffee who is also interested in Marketing  | A young but established software engineer looking for a more inspiring workspace that still has everything he needs to continue to further his career on his own terms  | A fine artist who has recently began to sell her artwork. |
+|   | Madison  |   Charlie    | Allesandra  |   
+|---|---|---|---|
+| Needs  | A roaster at Stumptown Coffee who is also interested in Marketing  | A young but established software engineer looking for a more inspiring workspace that still has everything he needs to continue to further his career on his own terms  | A fine artist who has recently began to sell her artwork. |
+| Pain Points | Hard to navigate, not intuitive  | Trying too hard to be unique, not looking professional  | Lack of originality  |
+|How to Serve| Create a site that is different from the rest. Especially in a city like Portland, where there are always new coffee spots opening up, it's important to stand out as the best.  |  No bugs = no problem. Profressional looking site that makes Charlie feel like the young professional that he is and is taken more seriously by potential employers. |  Sleek design that reflects personaily and makes an artist happy and inspired to work. |
 
 
 
 ### User Stories
 
-* Madison: as a craftsperson and specialty coffee roaster, I want a clean, easy to use interface he can explore all possible features of this new workspace.
-* Charlie: as a software developer, I want an exciting site, without bugs, that inspires my creativity so that I can be constantly motivated to continue producing fresh content.
-* Allessandra: as a fine artist, I want a site that reflects on my passion and eye for beauty, so that potential clients can tell that I am fully invested in my art, start-to-finish.
+* As a craftsperson and specialty coffee roaster, I want a clean, easy to use interface he can explore all possible features of this new workspace.
+* As someone interest in Marketing and expanding my business, I want a site that will stand out from the rest and reflect well on my craft.
+* As a software developer, I want an exciting site, without bugs, that inspires my creativity so that I can be constantly motivated to continue producing fresh content.
+* As a person in tech, I am looking for complete functionality and a reflection of professionalism in the site.
+* As a fine artist, I want a site that reflects on my passion and eye for beauty, so that potential clients can tell that I am fully invested in my art, start-to-finish.
+
 
 ### Research, Inspiration, and Brainstorm
 
@@ -88,4 +93,4 @@ At this moment, I am working on building the actual site and to have it respond 
 
 MIT License
 
-Copyright (c) 2018 **_{ Nelia Terrazas }_**
+Copyright (c) 2019 **_Nelia Terrazas_**
