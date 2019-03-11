@@ -8,7 +8,7 @@
   background-color: white;
 }
 .company-name{
-  padding-left: 4em;
+  padding-left: 5em;
   justify-content: center;
   align-self: center;
   color: white;
@@ -24,6 +24,7 @@
 #laptop{
   width: 100%;
   height: 50%;
+  padding-bottom: 10%;
 }
 // MAIN AREA
 .container{
@@ -35,4 +36,10 @@
 .pink{
   width: 80%;
   background-color: lightpink;
+}
+.bottom-bar{
+  display: flex;
+  justify-content: center;
+  padding-top: 2%;
+  
 }
