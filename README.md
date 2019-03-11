@@ -85,9 +85,7 @@ Webpages will readjust nav bar display, image size, and main container layout as
 
 
 ### Roadmap
-
-At this moment, I am working on building the actual site and to have it respond to media queries as planned out in wireframes.
-
+I would like to continue building out the amenities and how to join pages for all versions, as all of my 4 remaining hours was spent on styling and building out the index page as planned out on my wireframe. The amenities page is where I plan to use grid to my full advantage, especially with media queries, to integrate all the icons I made on Sketch. 
 
 ### License
 
